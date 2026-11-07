@@ -1,0 +1,1022 @@
+[
+  {
+    "number": 1,
+    "owner": "nexu-io",
+    "name": "open-design",
+    "path": "001-nexu-io--open-design",
+    "repository_url": "https://github.com/nexu-io/open-design",
+    "pinned_commit": "87a4f91c308170a8270458fc40fc66a86ed69aac",
+    "pinned_commit_url": "https://github.com/nexu-io/open-design/commit/87a4f91c308170a8270458fc40fc66a86ed69aac",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 2,
+    "owner": "remotion-dev",
+    "name": "remotion",
+    "path": "002-remotion-dev--remotion",
+    "repository_url": "https://github.com/remotion-dev/remotion",
+    "pinned_commit": "c182a98846a92024b473e414cd75b87493673e4c",
+    "pinned_commit_url": "https://github.com/remotion-dev/remotion/commit/c182a98846a92024b473e414cd75b87493673e4c",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 3,
+    "owner": "heygen-com",
+    "name": "hyperframes",
+    "path": "003-heygen-com--hyperframes",
+    "repository_url": "https://github.com/heygen-com/hyperframes",
+    "pinned_commit": "7b1d9ccebf9c7e2c2bd22b7e9d9487ce975d6425",
+    "pinned_commit_url": "https://github.com/heygen-com/hyperframes/commit/7b1d9ccebf9c7e2c2bd22b7e9d9487ce975d6425",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 4,
+    "owner": "nexu-io",
+    "name": "html-video",
+    "path": "004-nexu-io--html-video",
+    "repository_url": "https://github.com/nexu-io/html-video",
+    "pinned_commit": "c414ecc07f795add03807d5d9ce4baefd807cea2",
+    "pinned_commit_url": "https://github.com/nexu-io/html-video/commit/c414ecc07f795add03807d5d9ce4baefd807cea2",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 5,
+    "owner": "nexu-io",
+    "name": "html-anything",
+    "path": "005-nexu-io--html-anything",
+    "repository_url": "https://github.com/nexu-io/html-anything",
+    "pinned_commit": "975fb3bcb98f1777781fb4c738902d36e32c8c46",
+    "pinned_commit_url": "https://github.com/nexu-io/html-anything/commit/975fb3bcb98f1777781fb4c738902d36e32c8c46",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 6,
+    "owner": "motion-canvas",
+    "name": "motion-canvas",
+    "path": "006-motion-canvas--motion-canvas",
+    "repository_url": "https://github.com/motion-canvas/motion-canvas",
+    "pinned_commit": "7b91435c301d530351dcf5ebb91dd139c002e405",
+    "pinned_commit_url": "https://github.com/motion-canvas/motion-canvas/commit/7b91435c301d530351dcf5ebb91dd139c002e405",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 7,
+    "owner": "theatre-js",
+    "name": "theatre",
+    "path": "007-theatre-js--theatre",
+    "repository_url": "https://github.com/theatre-js/theatre",
+    "pinned_commit": "6ea82b938ea49609489f6377ded693ccc6ee8f5b",
+    "pinned_commit_url": "https://github.com/theatre-js/theatre/commit/6ea82b938ea49609489f6377ded693ccc6ee8f5b",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 8,
+    "owner": "ManimCommunity",
+    "name": "manim",
+    "path": "008-ManimCommunity--manim",
+    "repository_url": "https://github.com/ManimCommunity/manim",
+    "pinned_commit": "e80274a2586c3c2f8d72600fe873e5f7971c0c9c",
+    "pinned_commit_url": "https://github.com/ManimCommunity/manim/commit/e80274a2586c3c2f8d72600fe873e5f7971c0c9c",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 9,
+    "owner": "3b1b",
+    "name": "manim",
+    "path": "009-3b1b--manim",
+    "repository_url": "https://github.com/3b1b/manim",
+    "pinned_commit": "fafa083a4fb274bba9cabde0b6e2f50ba6da0622",
+    "pinned_commit_url": "https://github.com/3b1b/manim/commit/fafa083a4fb274bba9cabde0b6e2f50ba6da0622",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 10,
+    "owner": "showlab",
+    "name": "Code2Video",
+    "path": "010-showlab--Code2Video",
+    "repository_url": "https://github.com/showlab/Code2Video",
+    "pinned_commit": "1142d8e14cdc2806df85aedb0fbb5dca474caa0f",
+    "pinned_commit_url": "https://github.com/showlab/Code2Video/commit/1142d8e14cdc2806df85aedb0fbb5dca474caa0f",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 11,
+    "owner": "FFmpeg",
+    "name": "FFmpeg",
+    "path": "011-FFmpeg--FFmpeg",
+    "repository_url": "https://github.com/FFmpeg/FFmpeg",
+    "pinned_commit": "bcbbfb78b42ca62e0bf0d3d47746840790e71dcc",
+    "pinned_commit_url": "https://github.com/FFmpeg/FFmpeg/commit/bcbbfb78b42ca62e0bf0d3d47746840790e71dcc",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 12,
+    "owner": "remotion-dev",
+    "name": "skills",
+    "path": "012-remotion-dev--skills",
+    "repository_url": "https://github.com/remotion-dev/skills",
+    "pinned_commit": "a2824c67f8b4585c294a8101db9f9f0ad3c643f8",
+    "pinned_commit_url": "https://github.com/remotion-dev/skills/commit/a2824c67f8b4585c294a8101db9f9f0ad3c643f8",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 13,
+    "owner": "andyhuo520",
+    "name": "vibe-knowledge",
+    "path": "013-andyhuo520--vibe-knowledge",
+    "repository_url": "https://github.com/andyhuo520/vibe-knowledge",
+    "pinned_commit": "c3a13a85f7cc560e5d396f063baecea4b2748e1e",
+    "pinned_commit_url": "https://github.com/andyhuo520/vibe-knowledge/commit/c3a13a85f7cc560e5d396f063baecea4b2748e1e",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 14,
+    "owner": "HeyChengC",
+    "name": "vibe-knowledge-film",
+    "path": "014-HeyChengC--vibe-knowledge-film",
+    "repository_url": "https://github.com/HeyChengC/vibe-knowledge-film",
+    "pinned_commit": "62d51508aad00003dc6209afa80c4b5dc540de59",
+    "pinned_commit_url": "https://github.com/HeyChengC/vibe-knowledge-film/commit/62d51508aad00003dc6209afa80c4b5dc540de59",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 15,
+    "owner": "xiazhuo123456789",
+    "name": "vibe-knowledge-video",
+    "path": "015-xiazhuo123456789--vibe-knowledge-video",
+    "repository_url": "https://github.com/xiazhuo123456789/vibe-knowledge-video",
+    "pinned_commit": "e28759c5f4876c3e5e68444b3ed57e1c1991df18",
+    "pinned_commit_url": "https://github.com/xiazhuo123456789/vibe-knowledge-video/commit/e28759c5f4876c3e5e68444b3ed57e1c1991df18",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 16,
+    "owner": "JuneYaooo",
+    "name": "rea-video",
+    "path": "016-JuneYaooo--rea-video",
+    "repository_url": "https://github.com/JuneYaooo/rea-video",
+    "pinned_commit": "e3d2805ee1e6188a640b62149eb055474f6bf982",
+    "pinned_commit_url": "https://github.com/JuneYaooo/rea-video/commit/e3d2805ee1e6188a640b62149eb055474f6bf982",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 17,
+    "owner": "Vincentwei1021",
+    "name": "video-talkcraft",
+    "path": "017-Vincentwei1021--video-talkcraft",
+    "repository_url": "https://github.com/Vincentwei1021/video-talkcraft",
+    "pinned_commit": "a7c29edfb2404612dde6a5a1c8aa94232e85625b",
+    "pinned_commit_url": "https://github.com/Vincentwei1021/video-talkcraft/commit/a7c29edfb2404612dde6a5a1c8aa94232e85625b",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 18,
+    "owner": "Vincentwei1021",
+    "name": "anything2explainer",
+    "path": "018-Vincentwei1021--anything2explainer",
+    "repository_url": "https://github.com/Vincentwei1021/anything2explainer",
+    "pinned_commit": "735c79c8724e897e8971cd59dde7e5aa11e4d6ce",
+    "pinned_commit_url": "https://github.com/Vincentwei1021/anything2explainer/commit/735c79c8724e897e8971cd59dde7e5aa11e4d6ce",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 19,
+    "owner": "yihui-dev",
+    "name": "awesome-opus5-5-videos",
+    "path": "019-yihui-dev--awesome-opus5-5-videos",
+    "repository_url": "https://github.com/yihui-dev/awesome-opus5-5-videos",
+    "pinned_commit": "92aee2f586ac0715cb3cbcb6384834f98a33383d",
+    "pinned_commit_url": "https://github.com/yihui-dev/awesome-opus5-5-videos/commit/92aee2f586ac0715cb3cbcb6384834f98a33383d",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 20,
+    "owner": "Vincentwei1021",
+    "name": "video-shotcraft",
+    "path": "020-Vincentwei1021--video-shotcraft",
+    "repository_url": "https://github.com/Vincentwei1021/video-shotcraft",
+    "pinned_commit": "1266a3ec4831289c4d893d42dd5102723658039a",
+    "pinned_commit_url": "https://github.com/Vincentwei1021/video-shotcraft/commit/1266a3ec4831289c4d893d42dd5102723658039a",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 21,
+    "owner": "motiontemplates",
+    "name": "all",
+    "path": "021-motiontemplates--all",
+    "repository_url": "https://github.com/motiontemplates/all",
+    "pinned_commit": "a8baa070f8260e3e6ec6ff958b687cefed70d12c",
+    "pinned_commit_url": "https://github.com/motiontemplates/all/commit/a8baa070f8260e3e6ec6ff958b687cefed70d12c",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 22,
+    "owner": "RenderComp",
+    "name": "free-remotion-templates",
+    "path": "022-RenderComp--free-remotion-templates",
+    "repository_url": "https://github.com/RenderComp/free-remotion-templates",
+    "pinned_commit": "f648980e528defb7594e24c6447055f0540f340b",
+    "pinned_commit_url": "https://github.com/RenderComp/free-remotion-templates/commit/f648980e528defb7594e24c6447055f0540f340b",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 23,
+    "owner": "2boysfromtown",
+    "name": "hyperframes-motion",
+    "path": "023-2boysfromtown--hyperframes-motion",
+    "repository_url": "https://github.com/2boysfromtown/hyperframes-motion",
+    "pinned_commit": "83cfdad9a4f2e6c370c8e3356401bdc705905f67",
+    "pinned_commit_url": "https://github.com/2boysfromtown/hyperframes-motion/commit/83cfdad9a4f2e6c370c8e3356401bdc705905f67",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 24,
+    "owner": "dlazy-ai",
+    "name": "ai-product-video",
+    "path": "024-dlazy-ai--ai-product-video",
+    "repository_url": "https://github.com/dlazy-ai/ai-product-video",
+    "pinned_commit": "55501b4f2e746f46317bfd972255897e00662dc5",
+    "pinned_commit_url": "https://github.com/dlazy-ai/ai-product-video/commit/55501b4f2e746f46317bfd972255897e00662dc5",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 25,
+    "owner": "Rinne414",
+    "name": "agent-video-styles",
+    "path": "025-Rinne414--agent-video-styles",
+    "repository_url": "https://github.com/Rinne414/agent-video-styles",
+    "pinned_commit": "c4faee769f64b0eee90183a02aa92a09962af3fb",
+    "pinned_commit_url": "https://github.com/Rinne414/agent-video-styles/commit/c4faee769f64b0eee90183a02aa92a09962af3fb",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 26,
+    "owner": "GovinduSasanka",
+    "name": "opus-motion-library",
+    "path": "026-GovinduSasanka--opus-motion-library",
+    "repository_url": "https://github.com/GovinduSasanka/opus-motion-library",
+    "pinned_commit": "8f1b78a25d0cf310c9bf904d434285046c4ed25a",
+    "pinned_commit_url": "https://github.com/GovinduSasanka/opus-motion-library/commit/8f1b78a25d0cf310c9bf904d434285046c4ed25a",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 27,
+    "owner": "timscheuerai",
+    "name": "launch-video-kit",
+    "path": "027-timscheuerai--launch-video-kit",
+    "repository_url": "https://github.com/timscheuerai/launch-video-kit",
+    "pinned_commit": "7e2629c900b17fb7203976e7cb6cf3b2c92b4e9b",
+    "pinned_commit_url": "https://github.com/timscheuerai/launch-video-kit/commit/7e2629c900b17fb7203976e7cb6cf3b2c92b4e9b",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 28,
+    "owner": "csalamida",
+    "name": "apple-video-kit",
+    "path": "028-csalamida--apple-video-kit",
+    "repository_url": "https://github.com/csalamida/apple-video-kit",
+    "pinned_commit": "dda8ca0be01e7526c7b9ed6a8f953da12d0884b2",
+    "pinned_commit_url": "https://github.com/csalamida/apple-video-kit/commit/dda8ca0be01e7526c7b9ed6a8f953da12d0884b2",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 29,
+    "owner": "imjszhang",
+    "name": "awesome-code-video",
+    "path": "029-imjszhang--awesome-code-video",
+    "repository_url": "https://github.com/imjszhang/awesome-code-video",
+    "pinned_commit": "2b8c9a282f1ecf947675ee5aee997f2a7db76c5b",
+    "pinned_commit_url": "https://github.com/imjszhang/awesome-code-video/commit/2b8c9a282f1ecf947675ee5aee997f2a7db76c5b",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 30,
+    "owner": "zhuyansen",
+    "name": "awesome-claude-video-skills",
+    "path": "030-zhuyansen--awesome-claude-video-skills",
+    "repository_url": "https://github.com/zhuyansen/awesome-claude-video-skills",
+    "pinned_commit": "ef57bcd5f8f984d1084f9fa7fc0f57aae6bfdd6f",
+    "pinned_commit_url": "https://github.com/zhuyansen/awesome-claude-video-skills/commit/ef57bcd5f8f984d1084f9fa7fc0f57aae6bfdd6f",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 31,
+    "owner": "Leonxlnx",
+    "name": "cinetic",
+    "path": "031-Leonxlnx--cinetic",
+    "repository_url": "https://github.com/Leonxlnx/cinetic",
+    "pinned_commit": "f4bbfc844877891fe92279d47b7874fb44d485ae",
+    "pinned_commit_url": "https://github.com/Leonxlnx/cinetic/commit/f4bbfc844877891fe92279d47b7874fb44d485ae",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 32,
+    "owner": "Leonxlnx",
+    "name": "earshot",
+    "path": "032-Leonxlnx--earshot",
+    "repository_url": "https://github.com/Leonxlnx/earshot",
+    "pinned_commit": "4ac3d2ac2b151e1c23376f9ce7f3047a17050013",
+    "pinned_commit_url": "https://github.com/Leonxlnx/earshot/commit/4ac3d2ac2b151e1c23376f9ce7f3047a17050013",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 33,
+    "owner": "Leonxlnx",
+    "name": "claude-launchvideo",
+    "path": "033-Leonxlnx--claude-launchvideo",
+    "repository_url": "https://github.com/Leonxlnx/claude-launchvideo",
+    "pinned_commit": "f0906e8629fa524c7cedc1ac959bf987005ee846",
+    "pinned_commit_url": "https://github.com/Leonxlnx/claude-launchvideo/commit/f0906e8629fa524c7cedc1ac959bf987005ee846",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 34,
+    "owner": "ymybxx",
+    "name": "SoloMCN",
+    "path": "034-ymybxx--SoloMCN",
+    "repository_url": "https://github.com/ymybxx/SoloMCN",
+    "pinned_commit": "444fd420a6690a9bc21f95c76b78db5209f8c6e6",
+    "pinned_commit_url": "https://github.com/ymybxx/SoloMCN/commit/444fd420a6690a9bc21f95c76b78db5209f8c6e6",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 35,
+    "owner": "haidrrrry",
+    "name": "claude-remotion-skill",
+    "path": "035-haidrrrry--claude-remotion-skill",
+    "repository_url": "https://github.com/haidrrrry/claude-remotion-skill",
+    "pinned_commit": "1dcbe5e3fc6cf970bd10d3cc05f0a8a5d19d0383",
+    "pinned_commit_url": "https://github.com/haidrrrry/claude-remotion-skill/commit/1dcbe5e3fc6cf970bd10d3cc05f0a8a5d19d0383",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 36,
+    "owner": "vincentsch",
+    "name": "explainroo",
+    "path": "036-vincentsch--explainroo",
+    "repository_url": "https://github.com/vincentsch/explainroo",
+    "pinned_commit": "e95232c8d535ed2aa390e7b1caee0d1326dd9e83",
+    "pinned_commit_url": "https://github.com/vincentsch/explainroo/commit/e95232c8d535ed2aa390e7b1caee0d1326dd9e83",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 37,
+    "owner": "remotion-dev",
+    "name": "github-unwrapped",
+    "path": "037-remotion-dev--github-unwrapped",
+    "repository_url": "https://github.com/remotion-dev/github-unwrapped",
+    "pinned_commit": "ece8397df97eb8e0578f8825058da2bf650b1f7d",
+    "pinned_commit_url": "https://github.com/remotion-dev/github-unwrapped/commit/ece8397df97eb8e0578f8825058da2bf650b1f7d",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 38,
+    "owner": "iart-ai",
+    "name": "motion-skills",
+    "path": "038-iart-ai--motion-skills",
+    "repository_url": "https://github.com/iart-ai/motion-skills",
+    "pinned_commit": "238dfc55aac123d4649be39adfe58c43193ca349",
+    "pinned_commit_url": "https://github.com/iart-ai/motion-skills/commit/238dfc55aac123d4649be39adfe58c43193ca349",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 39,
+    "owner": "iart-ai",
+    "name": "explainer-video-skills",
+    "path": "039-iart-ai--explainer-video-skills",
+    "repository_url": "https://github.com/iart-ai/explainer-video-skills",
+    "pinned_commit": "3e2d411b725d9a72939cf8e5eb81579e751373e7",
+    "pinned_commit_url": "https://github.com/iart-ai/explainer-video-skills/commit/3e2d411b725d9a72939cf8e5eb81579e751373e7",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 40,
+    "owner": "iart-ai",
+    "name": "map-animation-skills",
+    "path": "040-iart-ai--map-animation-skills",
+    "repository_url": "https://github.com/iart-ai/map-animation-skills",
+    "pinned_commit": "390ca98bbcf2ea88a430a69c0dcbf423e43d075d",
+    "pinned_commit_url": "https://github.com/iart-ai/map-animation-skills/commit/390ca98bbcf2ea88a430a69c0dcbf423e43d075d",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 41,
+    "owner": "iart-ai",
+    "name": "data-animation-skills",
+    "path": "041-iart-ai--data-animation-skills",
+    "repository_url": "https://github.com/iart-ai/data-animation-skills",
+    "pinned_commit": "8ce2709c3992490251e8a991535b1945f01c6865",
+    "pinned_commit_url": "https://github.com/iart-ai/data-animation-skills/commit/8ce2709c3992490251e8a991535b1945f01c6865",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 42,
+    "owner": "iart-ai",
+    "name": "motion-design-skills",
+    "path": "042-iart-ai--motion-design-skills",
+    "repository_url": "https://github.com/iart-ai/motion-design-skills",
+    "pinned_commit": "3c129f769d90a1328c209c386492333c9ac62312",
+    "pinned_commit_url": "https://github.com/iart-ai/motion-design-skills/commit/3c129f769d90a1328c209c386492333c9ac62312",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 43,
+    "owner": "feitangyuan",
+    "name": "onetake",
+    "path": "043-feitangyuan--onetake",
+    "repository_url": "https://github.com/feitangyuan/onetake",
+    "pinned_commit": "abb6d17279cdc749e27e99aa534a062d8fd01ced",
+    "pinned_commit_url": "https://github.com/feitangyuan/onetake/commit/abb6d17279cdc749e27e99aa534a062d8fd01ced",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 44,
+    "owner": "howseen-ai",
+    "name": "claude-motion-design",
+    "path": "044-howseen-ai--claude-motion-design",
+    "repository_url": "https://github.com/howseen-ai/claude-motion-design",
+    "pinned_commit": "3d90d349ef3fdde9b7e89de4df4a2159c9e8697f",
+    "pinned_commit_url": "https://github.com/howseen-ai/claude-motion-design/commit/3d90d349ef3fdde9b7e89de4df4a2159c9e8697f",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 45,
+    "owner": "joeseesun",
+    "name": "opus-video-prompts",
+    "path": "045-joeseesun--opus-video-prompts",
+    "repository_url": "https://github.com/joeseesun/opus-video-prompts",
+    "pinned_commit": "7977c807781d4ba7c235247b8899a72575a30d00",
+    "pinned_commit_url": "https://github.com/joeseesun/opus-video-prompts/commit/7977c807781d4ba7c235247b8899a72575a30d00",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 46,
+    "owner": "opusvideo",
+    "name": "awesome-claude-video",
+    "path": "046-opusvideo--awesome-claude-video",
+    "repository_url": "https://github.com/opusvideo/awesome-claude-video",
+    "pinned_commit": "3c655694c85efcef393be51395520ed0731e6efa",
+    "pinned_commit_url": "https://github.com/opusvideo/awesome-claude-video/commit/3c655694c85efcef393be51395520ed0731e6efa",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 47,
+    "owner": "cyberlesterr",
+    "name": "paper-collage-video",
+    "path": "047-cyberlesterr--paper-collage-video",
+    "repository_url": "https://github.com/cyberlesterr/paper-collage-video",
+    "pinned_commit": "59eb5ce6de9735020a7061cec6a43af2611893d8",
+    "pinned_commit_url": "https://github.com/cyberlesterr/paper-collage-video/commit/59eb5ce6de9735020a7061cec6a43af2611893d8",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 48,
+    "owner": "calesthio",
+    "name": "OpenMontage",
+    "path": "048-calesthio--OpenMontage",
+    "repository_url": "https://github.com/calesthio/OpenMontage",
+    "pinned_commit": "d21f5d4eaa08422b09c7091757a05affcbabb35b",
+    "pinned_commit_url": "https://github.com/calesthio/OpenMontage/commit/d21f5d4eaa08422b09c7091757a05affcbabb35b",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 49,
+    "owner": "Remocn",
+    "name": "remocn",
+    "path": "049-Remocn--remocn",
+    "repository_url": "https://github.com/Remocn/remocn",
+    "pinned_commit": "bfc8267f9c7d4da3d815f21185cddbb430f13839",
+    "pinned_commit_url": "https://github.com/Remocn/remocn/commit/bfc8267f9c7d4da3d815f21185cddbb430f13839",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 50,
+    "owner": "stefanwittwer",
+    "name": "remotion-animated",
+    "path": "050-stefanwittwer--remotion-animated",
+    "repository_url": "https://github.com/stefanwittwer/remotion-animated",
+    "pinned_commit": "263f73b46fe9b72f587017acd555874d4c00191f",
+    "pinned_commit_url": "https://github.com/stefanwittwer/remotion-animated/commit/263f73b46fe9b72f587017acd555874d4c00191f",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 51,
+    "owner": "av",
+    "name": "remotion-bits",
+    "path": "051-av--remotion-bits",
+    "repository_url": "https://github.com/av/remotion-bits",
+    "pinned_commit": "de35fda84b7b6acbe549a0b302a82ef211e8ef1e",
+    "pinned_commit_url": "https://github.com/av/remotion-bits/commit/de35fda84b7b6acbe549a0b302a82ef211e8ef1e",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 52,
+    "owner": "wshuyi",
+    "name": "remotion-video-skill",
+    "path": "052-wshuyi--remotion-video-skill",
+    "repository_url": "https://github.com/wshuyi/remotion-video-skill",
+    "pinned_commit": "d16ebd9ca330d636cf82bfd33d48ae12df74fadd",
+    "pinned_commit_url": "https://github.com/wshuyi/remotion-video-skill/commit/d16ebd9ca330d636cf82bfd33d48ae12df74fadd",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 53,
+    "owner": "shadcn-labs",
+    "name": "snapcn",
+    "path": "053-shadcn-labs--snapcn",
+    "repository_url": "https://github.com/shadcn-labs/snapcn",
+    "pinned_commit": "9c57e1b6196d7c895d74ec52934298120b22ffb6",
+    "pinned_commit_url": "https://github.com/shadcn-labs/snapcn/commit/9c57e1b6196d7c895d74ec52934298120b22ffb6",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 54,
+    "owner": "remotion-dev",
+    "name": "template-tiktok",
+    "path": "054-remotion-dev--template-tiktok",
+    "repository_url": "https://github.com/remotion-dev/template-tiktok",
+    "pinned_commit": "d11217ab15223bf74c4ea48e2b14ac9d68471781",
+    "pinned_commit_url": "https://github.com/remotion-dev/template-tiktok/commit/d11217ab15223bf74c4ea48e2b14ac9d68471781",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 55,
+    "owner": "remotion-dev",
+    "name": "template-code-hike",
+    "path": "055-remotion-dev--template-code-hike",
+    "repository_url": "https://github.com/remotion-dev/template-code-hike",
+    "pinned_commit": "c81ec31fc52a024b3b2a21fcf4a7ad64d3c29255",
+    "pinned_commit_url": "https://github.com/remotion-dev/template-code-hike/commit/c81ec31fc52a024b3b2a21fcf4a7ad64d3c29255",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 56,
+    "owner": "remotion-dev",
+    "name": "template-prompt-to-motion-graphics-saas",
+    "path": "056-remotion-dev--template-prompt-to-motion-graphics-saas",
+    "repository_url": "https://github.com/remotion-dev/template-prompt-to-motion-graphics-saas",
+    "pinned_commit": "5d5f3349dfda271629cdc36d630038dc45c10615",
+    "pinned_commit_url": "https://github.com/remotion-dev/template-prompt-to-motion-graphics-saas/commit/5d5f3349dfda271629cdc36d630038dc45c10615",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 57,
+    "owner": "remotion-dev",
+    "name": "template-prompt-to-video",
+    "path": "057-remotion-dev--template-prompt-to-video",
+    "repository_url": "https://github.com/remotion-dev/template-prompt-to-video",
+    "pinned_commit": "d8ff88bb69827f9053b8cab1bef1e197ac07e791",
+    "pinned_commit_url": "https://github.com/remotion-dev/template-prompt-to-video/commit/d8ff88bb69827f9053b8cab1bef1e197ac07e791",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 58,
+    "owner": "reactvideoeditor",
+    "name": "remotion-templates",
+    "path": "058-reactvideoeditor--remotion-templates",
+    "repository_url": "https://github.com/reactvideoeditor/remotion-templates",
+    "pinned_commit": "6209b724798e48ff395f8df1a6fa2d26082372b5",
+    "pinned_commit_url": "https://github.com/reactvideoeditor/remotion-templates/commit/6209b724798e48ff395f8df1a6fa2d26082372b5",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 59,
+    "owner": "remotion-dev",
+    "name": "template-audiogram",
+    "path": "059-remotion-dev--template-audiogram",
+    "repository_url": "https://github.com/remotion-dev/template-audiogram",
+    "pinned_commit": "dee9f3619127b8853a1e6cf8882332d9d332c32d",
+    "pinned_commit_url": "https://github.com/remotion-dev/template-audiogram/commit/dee9f3619127b8853a1e6cf8882332d9d332c32d",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 60,
+    "owner": "remotion-dev",
+    "name": "template-three",
+    "path": "060-remotion-dev--template-three",
+    "repository_url": "https://github.com/remotion-dev/template-three",
+    "pinned_commit": "c743c07791f8f5242e790517822ee0de9219aa6b",
+    "pinned_commit_url": "https://github.com/remotion-dev/template-three/commit/c743c07791f8f5242e790517822ee0de9219aa6b",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 61,
+    "owner": "remotion-dev",
+    "name": "template-music-visualization",
+    "path": "061-remotion-dev--template-music-visualization",
+    "repository_url": "https://github.com/remotion-dev/template-music-visualization",
+    "pinned_commit": "8b061f2ad85698f462e39ac888ae304c76ba183c",
+    "pinned_commit_url": "https://github.com/remotion-dev/template-music-visualization/commit/8b061f2ad85698f462e39ac888ae304c76ba183c",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 62,
+    "owner": "remotion-dev",
+    "name": "trailer",
+    "path": "062-remotion-dev--trailer",
+    "repository_url": "https://github.com/remotion-dev/trailer",
+    "pinned_commit": "63c2a66f2c7780f64c85c26e5f872daa31d9545c",
+    "pinned_commit_url": "https://github.com/remotion-dev/trailer/commit/63c2a66f2c7780f64c85c26e5f872daa31d9545c",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 63,
+    "owner": "remotion-dev",
+    "name": "typewriter",
+    "path": "063-remotion-dev--typewriter",
+    "repository_url": "https://github.com/remotion-dev/typewriter",
+    "pinned_commit": "a31b60a83a723c75e30c8a69cf8b909157498140",
+    "pinned_commit_url": "https://github.com/remotion-dev/typewriter/commit/a31b60a83a723c75e30c8a69cf8b909157498140",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 64,
+    "owner": "gl-transitions",
+    "name": "gl-transitions",
+    "path": "064-gl-transitions--gl-transitions",
+    "repository_url": "https://github.com/gl-transitions/gl-transitions",
+    "pinned_commit": "d43b2f010c513bcc99b4bcdbd7deb0ba9d66d278",
+    "pinned_commit_url": "https://github.com/gl-transitions/gl-transitions/commit/d43b2f010c513bcc99b4bcdbd7deb0ba9d66d278",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 65,
+    "owner": "halicotampa-crypto",
+    "name": "motion-pack",
+    "path": "065-halicotampa-crypto--motion-pack",
+    "repository_url": "https://github.com/halicotampa-crypto/motion-pack",
+    "pinned_commit": "dcf486c99078ffc148c7762f9863fc1d8bb551bf",
+    "pinned_commit_url": "https://github.com/halicotampa-crypto/motion-pack/commit/dcf486c99078ffc148c7762f9863fc1d8bb551bf",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 66,
+    "owner": "rbrown101010",
+    "name": "explainer-motion",
+    "path": "066-rbrown101010--explainer-motion",
+    "repository_url": "https://github.com/rbrown101010/explainer-motion",
+    "pinned_commit": "123690d78e0f2b02240c404182f737484a0038d5",
+    "pinned_commit_url": "https://github.com/rbrown101010/explainer-motion/commit/123690d78e0f2b02240c404182f737484a0038d5",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 67,
+    "owner": "datassthou64-source",
+    "name": "JackRobertsMotionGraphicSkill",
+    "path": "067-datassthou64-source--JackRobertsMotionGraphicSkill",
+    "repository_url": "https://github.com/datassthou64-source/JackRobertsMotionGraphicSkill",
+    "pinned_commit": "d35634769b4aeff28dd5932e97aac634931bf800",
+    "pinned_commit_url": "https://github.com/datassthou64-source/JackRobertsMotionGraphicSkill/commit/d35634769b4aeff28dd5932e97aac634931bf800",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 68,
+    "owner": "lumian2015",
+    "name": "opus-5-5-video-templates",
+    "path": "068-lumian2015--opus-5-5-video-templates",
+    "repository_url": "https://github.com/lumian2015/opus-5-5-video-templates",
+    "pinned_commit": "79bbf5b1940341cd5e29c4c1edfbbd807af639da",
+    "pinned_commit_url": "https://github.com/lumian2015/opus-5-5-video-templates/commit/79bbf5b1940341cd5e29c4c1edfbbd807af639da",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 69,
+    "owner": "wheresryan22",
+    "name": "anatomy",
+    "path": "069-wheresryan22--anatomy",
+    "repository_url": "https://github.com/wheresryan22/anatomy",
+    "pinned_commit": "1482e8469b0a9e0d8cc18ea2740a01423d29ae80",
+    "pinned_commit_url": "https://github.com/wheresryan22/anatomy/commit/1482e8469b0a9e0d8cc18ea2740a01423d29ae80",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 70,
+    "owner": "melihcolpan",
+    "name": "MuscleMap",
+    "path": "070-melihcolpan--MuscleMap",
+    "repository_url": "https://github.com/melihcolpan/MuscleMap",
+    "pinned_commit": "d53ddf4d480b65979f1008b203e6b6eda0e67e54",
+    "pinned_commit_url": "https://github.com/melihcolpan/MuscleMap/commit/d53ddf4d480b65979f1008b203e6b6eda0e67e54",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 71,
+    "owner": "CasberryIndia",
+    "name": "Physics-Notebook",
+    "path": "071-CasberryIndia--Physics-Notebook",
+    "repository_url": "https://github.com/CasberryIndia/Physics-Notebook",
+    "pinned_commit": "9f204d53d96b4a0f185b2f16f330cdf358426133",
+    "pinned_commit_url": "https://github.com/CasberryIndia/Physics-Notebook/commit/9f204d53d96b4a0f185b2f16f330cdf358426133",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 72,
+    "owner": "duerrsimon",
+    "name": "bioicons",
+    "path": "072-duerrsimon--bioicons",
+    "repository_url": "https://github.com/duerrsimon/bioicons",
+    "pinned_commit": "d29e766ea7580b8063c4f47b29e872db40a4d979",
+    "pinned_commit_url": "https://github.com/duerrsimon/bioicons/commit/d29e766ea7580b8063c4f47b29e872db40a4d979",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 73,
+    "owner": "vulovix",
+    "name": "body-muscles",
+    "path": "073-vulovix--body-muscles",
+    "repository_url": "https://github.com/vulovix/body-muscles",
+    "pinned_commit": "15c8085ee97cb94c51f92c75224416b15f955b5c",
+    "pinned_commit_url": "https://github.com/vulovix/body-muscles/commit/15c8085ee97cb94c51f92c75224416b15f955b5c",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 74,
+    "owner": "janosh",
+    "name": "diagrams",
+    "path": "074-janosh--diagrams",
+    "repository_url": "https://github.com/janosh/diagrams",
+    "pinned_commit": "3bb036835ba754c46ce1ac5b694fa11db5d89b43",
+    "pinned_commit_url": "https://github.com/janosh/diagrams/commit/3bb036835ba754c46ce1ac5b694fa11db5d89b43",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 75,
+    "owner": "wilbert-MD-PhD",
+    "name": "medical-illustration",
+    "path": "075-wilbert-MD-PhD--medical-illustration",
+    "repository_url": "https://github.com/wilbert-MD-PhD/medical-illustration",
+    "pinned_commit": "f8e7594c6e7b5fc0fc4d8a55527598e6309c7019",
+    "pinned_commit_url": "https://github.com/wilbert-MD-PhD/medical-illustration/commit/f8e7594c6e7b5fc0fc4d8a55527598e6309c7019",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 76,
+    "owner": "HichamELBSI",
+    "name": "react-native-body-highlighter",
+    "path": "076-HichamELBSI--react-native-body-highlighter",
+    "repository_url": "https://github.com/HichamELBSI/react-native-body-highlighter",
+    "pinned_commit": "8ed39ac2ae9cb46fb79d77eedec7e5b029a75174",
+    "pinned_commit_url": "https://github.com/HichamELBSI/react-native-body-highlighter/commit/8ed39ac2ae9cb46fb79d77eedec7e5b029a75174",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 77,
+    "owner": "eslamelfateh",
+    "name": "react-native-body-parts-anatomy",
+    "path": "077-eslamelfateh--react-native-body-parts-anatomy",
+    "repository_url": "https://github.com/eslamelfateh/react-native-body-parts-anatomy",
+    "pinned_commit": "0935ce05a0d0bdad371b16d295ae4526a38ecd44",
+    "pinned_commit_url": "https://github.com/eslamelfateh/react-native-body-parts-anatomy/commit/0935ce05a0d0bdad371b16d295ae4526a38ecd44",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 78,
+    "owner": "continuous-foundation",
+    "name": "scienceicons",
+    "path": "078-continuous-foundation--scienceicons",
+    "repository_url": "https://github.com/continuous-foundation/scienceicons",
+    "pinned_commit": "ad360401f89b1bd1627651ac36da546ab6331613",
+    "pinned_commit_url": "https://github.com/continuous-foundation/scienceicons/commit/ad360401f89b1bd1627651ac36da546ab6331613",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 79,
+    "owner": "DRZ-hang",
+    "name": "surgical-illustration",
+    "path": "079-DRZ-hang--surgical-illustration",
+    "repository_url": "https://github.com/DRZ-hang/surgical-illustration",
+    "pinned_commit": "53f974966ad7e85b8d4c344c48da8f5e58e4ea01",
+    "pinned_commit_url": "https://github.com/DRZ-hang/surgical-illustration/commit/53f974966ad7e85b8d4c344c48da8f5e58e4ea01",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 80,
+    "owner": "MartinHeinz",
+    "name": "physics-visual",
+    "path": "080-MartinHeinz--physics-visual",
+    "repository_url": "https://github.com/MartinHeinz/physics-visual",
+    "pinned_commit": "07a3831a617cf117d384bb842b8051440b63d3b0",
+    "pinned_commit_url": "https://github.com/MartinHeinz/physics-visual/commit/07a3831a617cf117d384bb842b8051440b63d3b0",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 81,
+    "owner": "ashemag",
+    "name": "human-atlas",
+    "path": "081-ashemag--human-atlas",
+    "repository_url": "https://github.com/ashemag/human-atlas",
+    "pinned_commit": "1c38bf35c254a891200d3cedecfd57abebe83d8d",
+    "pinned_commit_url": "https://github.com/ashemag/human-atlas/commit/1c38bf35c254a891200d3cedecfd57abebe83d8d",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 82,
+    "owner": "d3",
+    "name": "d3",
+    "path": "082-d3--d3",
+    "repository_url": "https://github.com/d3/d3",
+    "pinned_commit": "db118c93a429e82b83f091dbaa18fd0a82c06130",
+    "pinned_commit_url": "https://github.com/d3/d3/commit/db118c93a429e82b83f091dbaa18fd0a82c06130",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 83,
+    "owner": "mrdoob",
+    "name": "three.js",
+    "path": "083-mrdoob--three.js",
+    "repository_url": "https://github.com/mrdoob/three.js",
+    "pinned_commit": "f2b6a71bdd088d9da387fcc62802323341099b92",
+    "pinned_commit_url": "https://github.com/mrdoob/three.js/commit/f2b6a71bdd088d9da387fcc62802323341099b92",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 84,
+    "owner": "pmndrs",
+    "name": "react-three-fiber",
+    "path": "084-pmndrs--react-three-fiber",
+    "repository_url": "https://github.com/pmndrs/react-three-fiber",
+    "pinned_commit": "d74622ea8ed717f7212d7e19d65ff3e325508389",
+    "pinned_commit_url": "https://github.com/pmndrs/react-three-fiber/commit/d74622ea8ed717f7212d7e19d65ff3e325508389",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 85,
+    "owner": "maplibre",
+    "name": "maplibre-gl-js",
+    "path": "085-maplibre--maplibre-gl-js",
+    "repository_url": "https://github.com/maplibre/maplibre-gl-js",
+    "pinned_commit": "2966b87745bcd480ed1599bf48402f7ac95ef686",
+    "pinned_commit_url": "https://github.com/maplibre/maplibre-gl-js/commit/2966b87745bcd480ed1599bf48402f7ac95ef686",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 86,
+    "owner": "processing",
+    "name": "p5.js",
+    "path": "086-processing--p5.js",
+    "repository_url": "https://github.com/processing/p5.js",
+    "pinned_commit": "4030d2b43d4a15e0a0717315f62398a493cbd558",
+    "pinned_commit_url": "https://github.com/processing/p5.js/commit/4030d2b43d4a15e0a0717315f62398a493cbd558",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 87,
+    "owner": "pixijs",
+    "name": "pixijs",
+    "path": "087-pixijs--pixijs",
+    "repository_url": "https://github.com/pixijs/pixijs",
+    "pinned_commit": "2ab93d21c9b4f28e3e6f66a9e82ea1e81e771a49",
+    "pinned_commit_url": "https://github.com/pixijs/pixijs/commit/2ab93d21c9b4f28e3e6f66a9e82ea1e81e771a49",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 88,
+    "owner": "holtzy",
+    "name": "D3-graph-gallery",
+    "path": "088-holtzy--D3-graph-gallery",
+    "repository_url": "https://github.com/holtzy/D3-graph-gallery",
+    "pinned_commit": "8f12759d589c09248d841795293be9197308531b",
+    "pinned_commit_url": "https://github.com/holtzy/D3-graph-gallery/commit/8f12759d589c09248d841795293be9197308531b",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 89,
+    "owner": "hopechen067",
+    "name": "MapStage",
+    "path": "089-hopechen067--MapStage",
+    "repository_url": "https://github.com/hopechen067/MapStage",
+    "pinned_commit": "de55c81d1aa3f2ada429a1c3d5eb920a74e4c36a",
+    "pinned_commit_url": "https://github.com/hopechen067/MapStage/commit/de55c81d1aa3f2ada429a1c3d5eb920a74e4c36a",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 90,
+    "owner": "mauriciopoppe",
+    "name": "function-plot",
+    "path": "090-mauriciopoppe--function-plot",
+    "repository_url": "https://github.com/mauriciopoppe/function-plot",
+    "pinned_commit": "c55c85114861c81821fb61e3df3db2ea801efe24",
+    "pinned_commit_url": "https://github.com/mauriciopoppe/function-plot/commit/c55c85114861c81821fb61e3df3db2ea801efe24",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 91,
+    "owner": "automl",
+    "name": "TFM-Playground",
+    "path": "091-automl--TFM-Playground",
+    "repository_url": "https://github.com/automl/TFM-Playground",
+    "pinned_commit": "13a1df3bc769a75083785b7a6f53df479f353bc3",
+    "pinned_commit_url": "https://github.com/automl/TFM-Playground/commit/13a1df3bc769a75083785b7a6f53df479f353bc3",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 92,
+    "owner": "aws-samples",
+    "name": "aws-mlu-explain",
+    "path": "092-aws-samples--aws-mlu-explain",
+    "repository_url": "https://github.com/aws-samples/aws-mlu-explain",
+    "pinned_commit": "1ef330e547786940623b4016dd278d46befba691",
+    "pinned_commit_url": "https://github.com/aws-samples/aws-mlu-explain/commit/1ef330e547786940623b4016dd278d46befba691",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 93,
+    "owner": "chinese-poetry",
+    "name": "chinese-poetry",
+    "path": "093-chinese-poetry--chinese-poetry",
+    "repository_url": "https://github.com/chinese-poetry/chinese-poetry",
+    "pinned_commit": "b8594f81a89752241442f2ce267d6f66f96704ee",
+    "pinned_commit_url": "https://github.com/chinese-poetry/chinese-poetry/commit/b8594f81a89752241442f2ce267d6f66f96704ee",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 94,
+    "owner": "microsoft",
+    "name": "fluentui-emoji",
+    "path": "094-microsoft--fluentui-emoji",
+    "repository_url": "https://github.com/microsoft/fluentui-emoji",
+    "pinned_commit": "1ffb34c752ecf5d402f04cfb4b392c77f57c54bc",
+    "pinned_commit_url": "https://github.com/microsoft/fluentui-emoji/commit/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 95,
+    "owner": "jdecked",
+    "name": "twemoji",
+    "path": "095-jdecked--twemoji",
+    "repository_url": "https://github.com/jdecked/twemoji",
+    "pinned_commit": "b6b55fef1e8636b540a6d016a4729ca8cdf2e60b",
+    "pinned_commit_url": "https://github.com/jdecked/twemoji/commit/b6b55fef1e8636b540a6d016a4729ca8cdf2e60b",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 96,
+    "owner": "googlefonts",
+    "name": "noto-emoji",
+    "path": "096-googlefonts--noto-emoji",
+    "repository_url": "https://github.com/googlefonts/noto-emoji",
+    "pinned_commit": "99701e07d3d1fe1bdbcdb14964547f0fd592966f",
+    "pinned_commit_url": "https://github.com/googlefonts/noto-emoji/commit/99701e07d3d1fe1bdbcdb14964547f0fd592966f",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 97,
+    "owner": "taskforcesh",
+    "name": "bullmq",
+    "path": "097-taskforcesh--bullmq",
+    "repository_url": "https://github.com/taskforcesh/bullmq",
+    "pinned_commit": "fe30cde1f1f586e6824c523760cf9aa608f4f822",
+    "pinned_commit_url": "https://github.com/taskforcesh/bullmq/commit/fe30cde1f1f586e6824c523760cf9aa608f4f822",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 98,
+    "owner": "temporalio",
+    "name": "temporal",
+    "path": "098-temporalio--temporal",
+    "repository_url": "https://github.com/temporalio/temporal",
+    "pinned_commit": "47409d6ee4a5f6b84e63d4e352bcb18e84c007c0",
+    "pinned_commit_url": "https://github.com/temporalio/temporal/commit/47409d6ee4a5f6b84e63d4e352bcb18e84c007c0",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 99,
+    "owner": "triggerdotdev",
+    "name": "trigger.dev",
+    "path": "099-triggerdotdev--trigger.dev",
+    "repository_url": "https://github.com/triggerdotdev/trigger.dev",
+    "pinned_commit": "41ad1995b30573a9b55cfaab80c3293b7c35c1f8",
+    "pinned_commit_url": "https://github.com/triggerdotdev/trigger.dev/commit/41ad1995b30573a9b55cfaab80c3293b7c35c1f8",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 100,
+    "owner": "n8n-io",
+    "name": "n8n",
+    "path": "100-n8n-io--n8n",
+    "repository_url": "https://github.com/n8n-io/n8n",
+    "pinned_commit": "3895cb31de5731c8425e56e56ff6f1dad1e2aa50",
+    "pinned_commit_url": "https://github.com/n8n-io/n8n/commit/3895cb31de5731c8425e56e56ff6f1dad1e2aa50",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 101,
+    "owner": "librosa",
+    "name": "librosa",
+    "path": "101-librosa--librosa",
+    "repository_url": "https://github.com/librosa/librosa",
+    "pinned_commit": "51a1c911c2305eba3411f9f80137d5b09d8f139f",
+    "pinned_commit_url": "https://github.com/librosa/librosa/commit/51a1c911c2305eba3411f9f80137d5b09d8f139f",
+    "relationship": "Git submodule; source and license remain with upstream"
+  },
+  {
+    "number": 102,
+    "owner": "volcengine",
+    "name": "volcengine-python-sdk",
+    "path": "102-volcengine--volcengine-python-sdk",
+    "repository_url": "https://github.com/volcengine/volcengine-python-sdk",
+    "pinned_commit": "8be5c6f6c579654fd1fb8ab64b96c0881fb0249c",
+    "pinned_commit_url": "https://github.com/volcengine/volcengine-python-sdk/commit/8be5c6f6c579654fd1fb8ab64b96c0881fb0249c",
+    "relationship": "Git submodule; source and license remain with upstream"
+  }
+]

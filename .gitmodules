@@ -1,0 +1,511 @@
+# Each entry points to the original upstream GitHub repository.
+
+[submodule "001-nexu-io--open-design"]
+	path = 001-nexu-io--open-design
+	url = https://github.com/nexu-io/open-design.git
+	shallow = true
+
+[submodule "002-remotion-dev--remotion"]
+	path = 002-remotion-dev--remotion
+	url = https://github.com/remotion-dev/remotion.git
+	shallow = true
+
+[submodule "003-heygen-com--hyperframes"]
+	path = 003-heygen-com--hyperframes
+	url = https://github.com/heygen-com/hyperframes.git
+	shallow = true
+
+[submodule "004-nexu-io--html-video"]
+	path = 004-nexu-io--html-video
+	url = https://github.com/nexu-io/html-video.git
+	shallow = true
+
+[submodule "005-nexu-io--html-anything"]
+	path = 005-nexu-io--html-anything
+	url = https://github.com/nexu-io/html-anything.git
+	shallow = true
+
+[submodule "006-motion-canvas--motion-canvas"]
+	path = 006-motion-canvas--motion-canvas
+	url = https://github.com/motion-canvas/motion-canvas.git
+	shallow = true
+
+[submodule "007-theatre-js--theatre"]
+	path = 007-theatre-js--theatre
+	url = https://github.com/theatre-js/theatre.git
+	shallow = true
+
+[submodule "008-ManimCommunity--manim"]
+	path = 008-ManimCommunity--manim
+	url = https://github.com/ManimCommunity/manim.git
+	shallow = true
+
+[submodule "009-3b1b--manim"]
+	path = 009-3b1b--manim
+	url = https://github.com/3b1b/manim.git
+	shallow = true
+
+[submodule "010-showlab--Code2Video"]
+	path = 010-showlab--Code2Video
+	url = https://github.com/showlab/Code2Video.git
+	shallow = true
+
+[submodule "011-FFmpeg--FFmpeg"]
+	path = 011-FFmpeg--FFmpeg
+	url = https://github.com/FFmpeg/FFmpeg.git
+	shallow = true
+
+[submodule "012-remotion-dev--skills"]
+	path = 012-remotion-dev--skills
+	url = https://github.com/remotion-dev/skills.git
+	shallow = true
+
+[submodule "013-andyhuo520--vibe-knowledge"]
+	path = 013-andyhuo520--vibe-knowledge
+	url = https://github.com/andyhuo520/vibe-knowledge.git
+	shallow = true
+
+[submodule "014-HeyChengC--vibe-knowledge-film"]
+	path = 014-HeyChengC--vibe-knowledge-film
+	url = https://github.com/HeyChengC/vibe-knowledge-film.git
+	shallow = true
+
+[submodule "015-xiazhuo123456789--vibe-knowledge-video"]
+	path = 015-xiazhuo123456789--vibe-knowledge-video
+	url = https://github.com/xiazhuo123456789/vibe-knowledge-video.git
+	shallow = true
+
+[submodule "016-JuneYaooo--rea-video"]
+	path = 016-JuneYaooo--rea-video
+	url = https://github.com/JuneYaooo/rea-video.git
+	shallow = true
+
+[submodule "017-Vincentwei1021--video-talkcraft"]
+	path = 017-Vincentwei1021--video-talkcraft
+	url = https://github.com/Vincentwei1021/video-talkcraft.git
+	shallow = true
+
+[submodule "018-Vincentwei1021--anything2explainer"]
+	path = 018-Vincentwei1021--anything2explainer
+	url = https://github.com/Vincentwei1021/anything2explainer.git
+	shallow = true
+
+[submodule "019-yihui-dev--awesome-opus5-5-videos"]
+	path = 019-yihui-dev--awesome-opus5-5-videos
+	url = https://github.com/yihui-dev/awesome-opus5-5-videos.git
+	shallow = true
+
+[submodule "020-Vincentwei1021--video-shotcraft"]
+	path = 020-Vincentwei1021--video-shotcraft
+	url = https://github.com/Vincentwei1021/video-shotcraft.git
+	shallow = true
+
+[submodule "021-motiontemplates--all"]
+	path = 021-motiontemplates--all
+	url = https://github.com/motiontemplates/all.git
+	shallow = true
+
+[submodule "022-RenderComp--free-remotion-templates"]
+	path = 022-RenderComp--free-remotion-templates
+	url = https://github.com/RenderComp/free-remotion-templates.git
+	shallow = true
+
+[submodule "023-2boysfromtown--hyperframes-motion"]
+	path = 023-2boysfromtown--hyperframes-motion
+	url = https://github.com/2boysfromtown/hyperframes-motion.git
+	shallow = true
+
+[submodule "024-dlazy-ai--ai-product-video"]
+	path = 024-dlazy-ai--ai-product-video
+	url = https://github.com/dlazy-ai/ai-product-video.git
+	shallow = true
+
+[submodule "025-Rinne414--agent-video-styles"]
+	path = 025-Rinne414--agent-video-styles
+	url = https://github.com/Rinne414/agent-video-styles.git
+	shallow = true
+
+[submodule "026-GovinduSasanka--opus-motion-library"]
+	path = 026-GovinduSasanka--opus-motion-library
+	url = https://github.com/GovinduSasanka/opus-motion-library.git
+	shallow = true
+
+[submodule "027-timscheuerai--launch-video-kit"]
+	path = 027-timscheuerai--launch-video-kit
+	url = https://github.com/timscheuerai/launch-video-kit.git
+	shallow = true
+
+[submodule "028-csalamida--apple-video-kit"]
+	path = 028-csalamida--apple-video-kit
+	url = https://github.com/csalamida/apple-video-kit.git
+	shallow = true
+
+[submodule "029-imjszhang--awesome-code-video"]
+	path = 029-imjszhang--awesome-code-video
+	url = https://github.com/imjszhang/awesome-code-video.git
+	shallow = true
+
+[submodule "030-zhuyansen--awesome-claude-video-skills"]
+	path = 030-zhuyansen--awesome-claude-video-skills
+	url = https://github.com/zhuyansen/awesome-claude-video-skills.git
+	shallow = true
+
+[submodule "031-Leonxlnx--cinetic"]
+	path = 031-Leonxlnx--cinetic
+	url = https://github.com/Leonxlnx/cinetic.git
+	shallow = true
+
+[submodule "032-Leonxlnx--earshot"]
+	path = 032-Leonxlnx--earshot
+	url = https://github.com/Leonxlnx/earshot.git
+	shallow = true
+
+[submodule "033-Leonxlnx--claude-launchvideo"]
+	path = 033-Leonxlnx--claude-launchvideo
+	url = https://github.com/Leonxlnx/claude-launchvideo.git
+	shallow = true
+
+[submodule "034-ymybxx--SoloMCN"]
+	path = 034-ymybxx--SoloMCN
+	url = https://github.com/ymybxx/SoloMCN.git
+	shallow = true
+
+[submodule "035-haidrrrry--claude-remotion-skill"]
+	path = 035-haidrrrry--claude-remotion-skill
+	url = https://github.com/haidrrrry/claude-remotion-skill.git
+	shallow = true
+
+[submodule "036-vincentsch--explainroo"]
+	path = 036-vincentsch--explainroo
+	url = https://github.com/vincentsch/explainroo.git
+	shallow = true
+
+[submodule "037-remotion-dev--github-unwrapped"]
+	path = 037-remotion-dev--github-unwrapped
+	url = https://github.com/remotion-dev/github-unwrapped.git
+	shallow = true
+
+[submodule "038-iart-ai--motion-skills"]
+	path = 038-iart-ai--motion-skills
+	url = https://github.com/iart-ai/motion-skills.git
+	shallow = true
+
+[submodule "039-iart-ai--explainer-video-skills"]
+	path = 039-iart-ai--explainer-video-skills
+	url = https://github.com/iart-ai/explainer-video-skills.git
+	shallow = true
+
+[submodule "040-iart-ai--map-animation-skills"]
+	path = 040-iart-ai--map-animation-skills
+	url = https://github.com/iart-ai/map-animation-skills.git
+	shallow = true
+
+[submodule "041-iart-ai--data-animation-skills"]
+	path = 041-iart-ai--data-animation-skills
+	url = https://github.com/iart-ai/data-animation-skills.git
+	shallow = true
+
+[submodule "042-iart-ai--motion-design-skills"]
+	path = 042-iart-ai--motion-design-skills
+	url = https://github.com/iart-ai/motion-design-skills.git
+	shallow = true
+
+[submodule "043-feitangyuan--onetake"]
+	path = 043-feitangyuan--onetake
+	url = https://github.com/feitangyuan/onetake.git
+	shallow = true
+
+[submodule "044-howseen-ai--claude-motion-design"]
+	path = 044-howseen-ai--claude-motion-design
+	url = https://github.com/howseen-ai/claude-motion-design.git
+	shallow = true
+
+[submodule "045-joeseesun--opus-video-prompts"]
+	path = 045-joeseesun--opus-video-prompts
+	url = https://github.com/joeseesun/opus-video-prompts.git
+	shallow = true
+
+[submodule "046-opusvideo--awesome-claude-video"]
+	path = 046-opusvideo--awesome-claude-video
+	url = https://github.com/opusvideo/awesome-claude-video.git
+	shallow = true
+
+[submodule "047-cyberlesterr--paper-collage-video"]
+	path = 047-cyberlesterr--paper-collage-video
+	url = https://github.com/cyberlesterr/paper-collage-video.git
+	shallow = true
+
+[submodule "048-calesthio--OpenMontage"]
+	path = 048-calesthio--OpenMontage
+	url = https://github.com/calesthio/OpenMontage.git
+	shallow = true
+
+[submodule "049-Remocn--remocn"]
+	path = 049-Remocn--remocn
+	url = https://github.com/Remocn/remocn.git
+	shallow = true
+
+[submodule "050-stefanwittwer--remotion-animated"]
+	path = 050-stefanwittwer--remotion-animated
+	url = https://github.com/stefanwittwer/remotion-animated.git
+	shallow = true
+
+[submodule "051-av--remotion-bits"]
+	path = 051-av--remotion-bits
+	url = https://github.com/av/remotion-bits.git
+	shallow = true
+
+[submodule "052-wshuyi--remotion-video-skill"]
+	path = 052-wshuyi--remotion-video-skill
+	url = https://github.com/wshuyi/remotion-video-skill.git
+	shallow = true
+
+[submodule "053-shadcn-labs--snapcn"]
+	path = 053-shadcn-labs--snapcn
+	url = https://github.com/shadcn-labs/snapcn.git
+	shallow = true
+
+[submodule "054-remotion-dev--template-tiktok"]
+	path = 054-remotion-dev--template-tiktok
+	url = https://github.com/remotion-dev/template-tiktok.git
+	shallow = true
+
+[submodule "055-remotion-dev--template-code-hike"]
+	path = 055-remotion-dev--template-code-hike
+	url = https://github.com/remotion-dev/template-code-hike.git
+	shallow = true
+
+[submodule "056-remotion-dev--template-prompt-to-motion-graphics-saas"]
+	path = 056-remotion-dev--template-prompt-to-motion-graphics-saas
+	url = https://github.com/remotion-dev/template-prompt-to-motion-graphics-saas.git
+	shallow = true
+
+[submodule "057-remotion-dev--template-prompt-to-video"]
+	path = 057-remotion-dev--template-prompt-to-video
+	url = https://github.com/remotion-dev/template-prompt-to-video.git
+	shallow = true
+
+[submodule "058-reactvideoeditor--remotion-templates"]
+	path = 058-reactvideoeditor--remotion-templates
+	url = https://github.com/reactvideoeditor/remotion-templates.git
+	shallow = true
+
+[submodule "059-remotion-dev--template-audiogram"]
+	path = 059-remotion-dev--template-audiogram
+	url = https://github.com/remotion-dev/template-audiogram.git
+	shallow = true
+
+[submodule "060-remotion-dev--template-three"]
+	path = 060-remotion-dev--template-three
+	url = https://github.com/remotion-dev/template-three.git
+	shallow = true
+
+[submodule "061-remotion-dev--template-music-visualization"]
+	path = 061-remotion-dev--template-music-visualization
+	url = https://github.com/remotion-dev/template-music-visualization.git
+	shallow = true
+
+[submodule "062-remotion-dev--trailer"]
+	path = 062-remotion-dev--trailer
+	url = https://github.com/remotion-dev/trailer.git
+	shallow = true
+
+[submodule "063-remotion-dev--typewriter"]
+	path = 063-remotion-dev--typewriter
+	url = https://github.com/remotion-dev/typewriter.git
+	shallow = true
+
+[submodule "064-gl-transitions--gl-transitions"]
+	path = 064-gl-transitions--gl-transitions
+	url = https://github.com/gl-transitions/gl-transitions.git
+	shallow = true
+
+[submodule "065-halicotampa-crypto--motion-pack"]
+	path = 065-halicotampa-crypto--motion-pack
+	url = https://github.com/halicotampa-crypto/motion-pack.git
+	shallow = true
+
+[submodule "066-rbrown101010--explainer-motion"]
+	path = 066-rbrown101010--explainer-motion
+	url = https://github.com/rbrown101010/explainer-motion.git
+	shallow = true
+
+[submodule "067-datassthou64-source--JackRobertsMotionGraphicSkill"]
+	path = 067-datassthou64-source--JackRobertsMotionGraphicSkill
+	url = https://github.com/datassthou64-source/JackRobertsMotionGraphicSkill.git
+	shallow = true
+
+[submodule "068-lumian2015--opus-5-5-video-templates"]
+	path = 068-lumian2015--opus-5-5-video-templates
+	url = https://github.com/lumian2015/opus-5-5-video-templates.git
+	shallow = true
+
+[submodule "069-wheresryan22--anatomy"]
+	path = 069-wheresryan22--anatomy
+	url = https://github.com/wheresryan22/anatomy.git
+	shallow = true
+
+[submodule "070-melihcolpan--MuscleMap"]
+	path = 070-melihcolpan--MuscleMap
+	url = https://github.com/melihcolpan/MuscleMap.git
+	shallow = true
+
+[submodule "071-CasberryIndia--Physics-Notebook"]
+	path = 071-CasberryIndia--Physics-Notebook
+	url = https://github.com/CasberryIndia/Physics-Notebook.git
+	shallow = true
+
+[submodule "072-duerrsimon--bioicons"]
+	path = 072-duerrsimon--bioicons
+	url = https://github.com/duerrsimon/bioicons.git
+	shallow = true
+
+[submodule "073-vulovix--body-muscles"]
+	path = 073-vulovix--body-muscles
+	url = https://github.com/vulovix/body-muscles.git
+	shallow = true
+
+[submodule "074-janosh--diagrams"]
+	path = 074-janosh--diagrams
+	url = https://github.com/janosh/diagrams.git
+	shallow = true
+
+[submodule "075-wilbert-MD-PhD--medical-illustration"]
+	path = 075-wilbert-MD-PhD--medical-illustration
+	url = https://github.com/wilbert-MD-PhD/medical-illustration.git
+	shallow = true
+
+[submodule "076-HichamELBSI--react-native-body-highlighter"]
+	path = 076-HichamELBSI--react-native-body-highlighter
+	url = https://github.com/HichamELBSI/react-native-body-highlighter.git
+	shallow = true
+
+[submodule "077-eslamelfateh--react-native-body-parts-anatomy"]
+	path = 077-eslamelfateh--react-native-body-parts-anatomy
+	url = https://github.com/eslamelfateh/react-native-body-parts-anatomy.git
+	shallow = true
+
+[submodule "078-continuous-foundation--scienceicons"]
+	path = 078-continuous-foundation--scienceicons
+	url = https://github.com/continuous-foundation/scienceicons.git
+	shallow = true
+
+[submodule "079-DRZ-hang--surgical-illustration"]
+	path = 079-DRZ-hang--surgical-illustration
+	url = https://github.com/DRZ-hang/surgical-illustration.git
+	shallow = true
+
+[submodule "080-MartinHeinz--physics-visual"]
+	path = 080-MartinHeinz--physics-visual
+	url = https://github.com/MartinHeinz/physics-visual.git
+	shallow = true
+
+[submodule "081-ashemag--human-atlas"]
+	path = 081-ashemag--human-atlas
+	url = https://github.com/ashemag/human-atlas.git
+	shallow = true
+
+[submodule "082-d3--d3"]
+	path = 082-d3--d3
+	url = https://github.com/d3/d3.git
+	shallow = true
+
+[submodule "083-mrdoob--three.js"]
+	path = 083-mrdoob--three.js
+	url = https://github.com/mrdoob/three.js.git
+	shallow = true
+
+[submodule "084-pmndrs--react-three-fiber"]
+	path = 084-pmndrs--react-three-fiber
+	url = https://github.com/pmndrs/react-three-fiber.git
+	shallow = true
+
+[submodule "085-maplibre--maplibre-gl-js"]
+	path = 085-maplibre--maplibre-gl-js
+	url = https://github.com/maplibre/maplibre-gl-js.git
+	shallow = true
+
+[submodule "086-processing--p5.js"]
+	path = 086-processing--p5.js
+	url = https://github.com/processing/p5.js.git
+	shallow = true
+
+[submodule "087-pixijs--pixijs"]
+	path = 087-pixijs--pixijs
+	url = https://github.com/pixijs/pixijs.git
+	shallow = true
+
+[submodule "088-holtzy--D3-graph-gallery"]
+	path = 088-holtzy--D3-graph-gallery
+	url = https://github.com/holtzy/D3-graph-gallery.git
+	shallow = true
+
+[submodule "089-hopechen067--MapStage"]
+	path = 089-hopechen067--MapStage
+	url = https://github.com/hopechen067/MapStage.git
+	shallow = true
+
+[submodule "090-mauriciopoppe--function-plot"]
+	path = 090-mauriciopoppe--function-plot
+	url = https://github.com/mauriciopoppe/function-plot.git
+	shallow = true
+
+[submodule "091-automl--TFM-Playground"]
+	path = 091-automl--TFM-Playground
+	url = https://github.com/automl/TFM-Playground.git
+	shallow = true
+
+[submodule "092-aws-samples--aws-mlu-explain"]
+	path = 092-aws-samples--aws-mlu-explain
+	url = https://github.com/aws-samples/aws-mlu-explain.git
+	shallow = true
+
+[submodule "093-chinese-poetry--chinese-poetry"]
+	path = 093-chinese-poetry--chinese-poetry
+	url = https://github.com/chinese-poetry/chinese-poetry.git
+	shallow = true
+
+[submodule "094-microsoft--fluentui-emoji"]
+	path = 094-microsoft--fluentui-emoji
+	url = https://github.com/microsoft/fluentui-emoji.git
+	shallow = true
+
+[submodule "095-jdecked--twemoji"]
+	path = 095-jdecked--twemoji
+	url = https://github.com/jdecked/twemoji.git
+	shallow = true
+
+[submodule "096-googlefonts--noto-emoji"]
+	path = 096-googlefonts--noto-emoji
+	url = https://github.com/googlefonts/noto-emoji.git
+	shallow = true
+
+[submodule "097-taskforcesh--bullmq"]
+	path = 097-taskforcesh--bullmq
+	url = https://github.com/taskforcesh/bullmq.git
+	shallow = true
+
+[submodule "098-temporalio--temporal"]
+	path = 098-temporalio--temporal
+	url = https://github.com/temporalio/temporal.git
+	shallow = true
+
+[submodule "099-triggerdotdev--trigger.dev"]
+	path = 099-triggerdotdev--trigger.dev
+	url = https://github.com/triggerdotdev/trigger.dev.git
+	shallow = true
+
+[submodule "100-n8n-io--n8n"]
+	path = 100-n8n-io--n8n
+	url = https://github.com/n8n-io/n8n.git
+	shallow = true
+
+[submodule "101-librosa--librosa"]
+	path = 101-librosa--librosa
+	url = https://github.com/librosa/librosa.git
+	shallow = true
+
+[submodule "102-volcengine--volcengine-python-sdk"]
+	path = 102-volcengine--volcengine-python-sdk
+	url = https://github.com/volcengine/volcengine-python-sdk.git
+	shallow = true
